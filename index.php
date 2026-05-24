@@ -35,7 +35,7 @@
             <div class="text-center">
                 <img src="image/emerit.png" alt="E-MERIT Logo" class="profile-image">
                 <h1 class="login-title mt-2">E-MERIT</h1>
-                <p class="login-subtitle">Student Merit System</p>
+                <p class="login-subtitle">Student E-Merit System</p>
             </div>
            
     
